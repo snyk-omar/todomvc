@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "dustjs-helpers": "^1.1.1",
-    "dustjs-linkedin": "^2.5.0",
+    "dustjs-linkedin": "^3.0.1",
     "jquery": "^2.0.3",
     "mout": "^0.7.1",
     "requirejs": "^2.1.6",
