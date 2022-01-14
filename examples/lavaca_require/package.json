@@ -4,7 +4,7 @@
     "dustjs-helpers": "^1.1.1",
     "dustjs-linkedin": "^2.5.0",
     "jquery": "^2.0.3",
-    "mout": "^0.7.1",
+    "mout": "^1.2.3",
     "requirejs": "^2.1.6",
     "todomvc-app-css": "^2.1.0",
     "todomvc-common": "^1.0.1"
