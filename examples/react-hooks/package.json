@@ -9,7 +9,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-hook-utils": "^1.0.6",
-    "react-router-dom": "^4.4.0-beta.6",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "2.1.5",
     "todomvc-app-css": "^2.1.2",
     "use-onclickoutside": "^0.3.0",
